@@ -10,6 +10,15 @@ schoolsup
 higher
 absences
 
+
+Największy wpływ mają:
+
+higher
+schoolsup
+failures
+
+//notatki:
+
 algorytm: C45
 J48 przyczytać
 
